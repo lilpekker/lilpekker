@@ -62,10 +62,6 @@ Minecraft is my main area of focus. I work on Minecraft-related projects, includ
 - 🚀 Server optimization and troubleshooting
 - 🛠️ Custom systems and features for Minecraft servers
 
-## 🌐 Minecraft Servers
-
-- **AmasraV2** — Minecraft server development and technical systems
-- **Venom MC** — Minecraft server project and infrastructure
 
 ## 📊 GitHub Stats
 
