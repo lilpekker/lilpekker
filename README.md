@@ -1,5 +1,9 @@
 # 👋 Hey, I'm a Developer!
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-lilpekker-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: lilpekker" />
+</p>
+
 💻 **Minecraft Developer | Software Developer**
 
 I'm a developer with **3 years of experience** in software development, mainly focused on the Minecraft ecosystem. I work on Minecraft server development, plugins, backend systems, and web technologies.
@@ -24,12 +28,6 @@ I enjoy building projects, developing useful tools, managing servers, and learni
   <img src="https://skillicons.dev/icons?i=java,js,php,html,python" alt="Java, JavaScript, PHP, HTML, Python" />
 </p>
 
-- **Java** — Minecraft plugins and server-side development
-- **JavaScript** — Backend development and web applications
-- **PHP** — Backend systems and web development
-- **HTML** — Website structure and frontend development
-- **Python** — Scripting, automation, and general-purpose development
-
 ### 🗄️ Databases
 
 <p>
@@ -41,7 +39,7 @@ I enjoy building projects, developing useful tools, managing servers, and learni
 - MySQL
 - SQL
 
-### 🐧 Operating Systems & Server Management
+### 🐧 Operating Systems & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,bash,git,github" alt="Linux, Bash, Git, GitHub" />
@@ -66,10 +64,6 @@ Minecraft is my main area of focus. I work on Minecraft-related projects, includ
 
 ## 🌐 Minecraft Servers
 
-I have worked on Minecraft server projects in developer and technical roles, contributing to server systems, plugins, configurations, and infrastructure.
-
-Some projects I've been involved with:
-
 - **AmasraV2** — Minecraft server development and technical systems
 - **Venom MC** — Minecraft server project and infrastructure
 
@@ -84,6 +78,8 @@ Some projects I've been involved with:
 </p>
 
 ## 📫 Let's Connect
+
+💬 **Discord:** `lilpekker`
 
 Feel free to explore my repositories and projects. I'm always interested in learning new things, building useful software, and working on exciting Minecraft projects.
 
